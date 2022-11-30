@@ -40,6 +40,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.sln.DotSettings.user
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -80,5 +81,4 @@ Plugins/*/RiderLink
 .idea
 
 # vs config
-
 .vsconfig
